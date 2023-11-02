@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "img": "https://i.ibb.co/5jRsfXL/1.png",
+        "title": "Car Engine Plug",
+        "price": "$20.00"
+    },
+    {
+        "id": "2",
+        "img": "https://i.ibb.co/Vx3p5Cb/2.png",
+        "title": "Car Engine Plug",
+        "price": "$20.00"
+    },
+    {
+        "id": "3",
+        "img": "https://i.ibb.co/MS4Zywr/3.png",
+        "title": "Car Engine Plug",
+        "price": "$20.00"
+    },
+    {
+        "id": "4",
+        "img": "https://i.ibb.co/kqVMbS1/4.png",
+        "title": "Car Engine Plug",
+        "price": "$20.00"
+    },
+    {
+        "id": "5",
+        "img": "https://i.ibb.co/mNmczgk/5.png",
+        "title": "Car Engine Plug",
+        "price": "$20.00"
+    },
+    {
+        "id": "6",
+        "img": "https://i.ibb.co/Y78XffN/6.png",
+        "title": "Car Engine Plug",
+        "price": "$20.00"
+    }
+]
